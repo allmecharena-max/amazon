@@ -2,10 +2,6 @@
 
 Welcome! This is my very first web development project—a modern, pixel-perfect e-commerce user interface built entirely from scratch. The primary goal of this project was to move past basic tutorials and dive deep into real-world UI design challenges and robust responsiveness.
 
-> **Live Demo:** [Experience the live storefront here](https://yourusername.github.io/your-repository-name)
-
----
-
 ## 🎯 Project Focus & Core Goals
 
 As my first official website, this project served as a massive milestone for sharpening my front-end fundamentals. I focused heavily on two critical pillars of modern web development:
@@ -36,25 +32,12 @@ To master the foundational building blocks of the web, this project uses zero fr
 
 ---
 
-## 📸 Screenshots
+## 📸 Consists of :-
 
 ### Desktop View
-*(Add a screenshot of your full desktop layout here)*
 
 ### Mobile View
-*(Add a screenshot of your responsive mobile layout here)*
-
----
-
-## 🚀 Getting Started
-
-Want to check out the code or run it locally? Follow these quick steps:
 
 ### Prerequisites
 You only need a modern web browser (like Chrome, Edge, or Safari).
 
-### Setup
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/your-repository-name.git](https://github.com/yourusername/your-repository-name.git)
